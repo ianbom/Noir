@@ -1,0 +1,7 @@
+import { image } from "./projects.ts";
+
+export const team = [
+  { name: "Adrian Mahesa", role: "Design Principal", image: image("/images/team/adrian-mahesa.jpg"), paragraphs: ["Adrian's editorial perspective begins with the plan: how a home is entered, how rooms connect and where light is allowed to settle. His approach favours a clear underlying order, softened by materials that carry texture and variation.", "For this imagined practice, architecture is less about a signature shape than a useful and enduring relationship between people and place."] },
+  { name: "Keira Anindya", role: "Creative Director", image: image("/images/team/keira-anindya.jpg"), paragraphs: ["Keira's profile explores the intimate scale of interiors. A junction between stone and timber, the height of a shelf, or the warmth of a lamp can change how a room is experienced.", "Her editorial focus is on material honesty and rooms that allow life to unfold naturally, without requiring everything to remain perfectly arranged."] },
+  { name: "Rafael Pratama", role: "Project Lead", image: image("/images/team/rafael-pratama.jpg"), paragraphs: ["Rafael represents the practical side of the creative process: translating spatial ideas into clear decisions, resolving details and keeping the original intention in view.", "This editorial role brings attention to how a space works over time, with an emphasis on everyday function, thoughtful coordination and the value of a well-considered detail."] },
+];

@@ -1,0 +1,14 @@
+{
+  "session_id": "01a16bd1-dfde-7b92-9186-f1174fe02b8c",
+  "native_session_id": "01a16bd1-dfde-7b92-9186-f1174fe02b8c",
+  "started_at": "2026-10-24T02:52:37.353Z",
+  "cwd": "E:\\Webgrow\\StudioDinding",
+  "state_root": "E:\\Webgrow\\StudioDinding\\.omx\\state",
+  "pid": 4472,
+  "platform": "win32",
+  "identity_schema_version": 2,
+  "process_identity": {
+    "platform": "win32",
+    "birth": "134372838713282777"
+  }
+}

@@ -1,0 +1,562 @@
+{
+  "/images/projects/obsidian-residence/1.jpg": {
+    "width": 1733,
+    "height": 2600,
+    "alt": "a tall building with a palm tree in front of it",
+    "photographer": "timowielink",
+    "source": "https://unsplash.com/photos/a-tall-building-with-a-palm-tree-in-front-of-it-zRBujTnBwpc",
+    "imageUrl": "https://images.unsplash.com/photo-1674758978719-6121d8fbefb4",
+    "license": "https://unsplash.com/license",
+    "usage": "Editorial concept imagery; not a commissioned-project claim"
+  },
+  "/images/projects/obsidian-residence/2.jpg": {
+    "width": 2200,
+    "height": 2014,
+    "alt": "a room with a table chairs and a plant with lights",
+    "photographer": "ka_idris",
+    "source": "https://unsplash.com/photos/a-room-with-a-table-chairs-and-a-plant-with-lights-wMzpa3WsDkI",
+    "imageUrl": "https://images.unsplash.com/photo-1656403002413-2ac6137237d6",
+    "license": "https://unsplash.com/license",
+    "usage": "Editorial concept imagery; not a commissioned-project claim"
+  },
+  "/images/projects/obsidian-residence/3.jpg": {
+    "width": 1733,
+    "height": 2600,
+    "alt": "a lamp and books on a table",
+    "photographer": "kaboompics",
+    "source": "https://unsplash.com/photos/a-lamp-and-books-on-a-table-ulh3-dLSXjI",
+    "imageUrl": "https://images.unsplash.com/photo-1667312939978-64cf31718a6e",
+    "license": "https://unsplash.com/license",
+    "usage": "Editorial concept imagery; not a commissioned-project claim"
+  },
+  "/images/projects/obsidian-residence/4.jpg": {
+    "width": 1733,
+    "height": 2600,
+    "alt": "Abstract geometric pattern of light and dark wooden slats in a modern interior",
+    "photographer": "teerapat213",
+    "source": "https://unsplash.com/photos/geometric-wooden-slats-interior-pattern-QhApUcj8e8E",
+    "imageUrl": "https://images.unsplash.com/photo-1790356296700-17bf7d0bbf35",
+    "license": "https://unsplash.com/license",
+    "usage": "Editorial concept imagery; not a commissioned-project claim"
+  },
+  "/images/projects/atria-house/1.jpg": {
+    "width": 2200,
+    "height": 1650,
+    "alt": "white and brown concrete building under blue sky during daytime",
+    "photographer": "webaliser",
+    "source": "https://unsplash.com/photos/white-and-brown-concrete-building-under-blue-sky-during-daytime-_TPTXZd9mOo",
+    "imageUrl": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914",
+    "license": "https://unsplash.com/license",
+    "usage": "Editorial concept imagery; not a commissioned-project claim"
+  },
+  "/images/projects/atria-house/2.jpg": {
+    "width": 2200,
+    "height": 1467,
+    "alt": "white and brown concrete building",
+    "photographer": "aviwerde",
+    "source": "https://unsplash.com/photos/white-and-brown-concrete-building-hHz4yrvxwlA",
+    "imageUrl": "https://images.unsplash.com/photo-1613490493576-7fde63acd811",
+    "license": "https://unsplash.com/license",
+    "usage": "Editorial concept imagery; not a commissioned-project claim"
+  },
+  "/images/projects/atria-house/3.jpg": {
+    "width": 2200,
+    "height": 1467,
+    "alt": "A bright and modern dining room interior",
+    "photographer": "aviwerde",
+    "source": "https://unsplash.com/photos/a-bright-and-modern-dining-room-interior-n1SXqJsU1nQ",
+    "imageUrl": "https://images.unsplash.com/photo-1752004028694-72610be3604e",
+    "license": "https://unsplash.com/license",
+    "usage": "Editorial concept imagery; not a commissioned-project claim"
+  },
+  "/images/projects/atria-house/4.jpg": {
+    "width": 1733,
+    "height": 2600,
+    "alt": "A minimalist staircase with white concrete steps leading to a landing with a vase",
+    "photographer": "alesiaskaz",
+    "source": "https://unsplash.com/photos/minimalist-concrete-staircase-with-vase-0B7ijYKaKcE",
+    "imageUrl": "https://images.unsplash.com/photo-1601993957728-1e56ab70c5a8",
+    "license": "https://unsplash.com/license",
+    "usage": "Editorial concept imagery; not a commissioned-project claim"
+  },
+  "/images/projects/solstice-villa/1.jpg": {
+    "width": 2200,
+    "height": 1238,
+    "alt": "a building with a pool",
+    "photographer": "salmansaqib",
+    "source": "https://unsplash.com/photos/a-building-with-a-pool-z6UAWpQAhXs",
+    "imageUrl": "https://images.unsplash.com/photo-1670589953882-b94c9cb380f5",
+    "license": "https://unsplash.com/license",
+    "usage": "Editorial concept imagery; not a commissioned-project claim"
+  },
+  "/images/projects/solstice-villa/2.jpg": {
+    "width": 2200,
+    "height": 1460,
+    "alt": "white concrete building under blue sky during daytime",
+    "photographer": "framesforyourheart",
+    "source": "https://unsplash.com/photos/white-concrete-building-under-blue-sky-during-daytime-mR1CIDduGLc",
+    "imageUrl": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9",
+    "license": "https://unsplash.com/license",
+    "usage": "Editorial concept imagery; not a commissioned-project claim"
+  },
+  "/images/projects/solstice-villa/3.jpg": {
+    "width": 2200,
+    "height": 1467,
+    "alt": "white and grey concrete building near swimming pool under clear sky during daytime",
+    "photographer": "framesforyourheart",
+    "source": "https://unsplash.com/photos/white-and-grey-concrete-building-near-swimming-pool-under-clear-sky-during-daytime-2d4lAQAlbDA",
+    "imageUrl": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750",
+    "license": "https://unsplash.com/license",
+    "usage": "Editorial concept imagery; not a commissioned-project claim"
+  },
+  "/images/projects/solstice-villa/4.jpg": {
+    "width": 2200,
+    "height": 1467,
+    "alt": "A modern house with glass walls beside a swimming pool on a sunny day",
+    "photographer": "fensterschmidinger",
+    "source": "https://unsplash.com/photos/modern-house-with-pool-and-patio-b_79nOqf95I",
+    "imageUrl": "https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf",
+    "license": "https://unsplash.com/license",
+    "usage": "Editorial concept imagery; not a commissioned-project claim"
+  },
+  "/images/projects/the-monolith-home/1.jpg": {
+    "width": 1949,
+    "height": 2600,
+    "alt": "A concrete building with stairs leading up to it",
+    "photographer": "declansun",
+    "source": "https://unsplash.com/photos/a-concrete-building-with-stairs-leading-up-to-it-RECjfdtDVLo",
+    "imageUrl": "https://images.unsplash.com/photo-1730170787463-53a7074137fa",
+    "license": "https://unsplash.com/license",
+    "usage": "Editorial concept imagery; not a commissioned-project claim"
+  },
+  "/images/projects/the-monolith-home/2.jpg": {
+    "width": 1950,
+    "height": 2600,
+    "alt": "A concrete structure sitting on top of a lush green field",
+    "photographer": "declansun",
+    "source": "https://unsplash.com/photos/a-concrete-structure-sitting-on-top-of-a-lush-green-field-peAZEYBZX8M",
+    "imageUrl": "https://images.unsplash.com/photo-1730170788248-c64b24c1bbb1",
+    "license": "https://unsplash.com/license",
+    "usage": "Editorial concept imagery; not a commissioned-project claim"
+  },
+  "/images/projects/the-monolith-home/3.jpg": {
+    "width": 2088,
+    "height": 2600,
+    "alt": "A concrete structure with a window in the middle of it",
+    "photographer": "declansun",
+    "source": "https://unsplash.com/photos/a-concrete-structure-with-a-window-in-the-middle-of-it-6jQwhMNbvXY",
+    "imageUrl": "https://images.unsplash.com/photo-1730170787456-1deb1ed7503f",
+    "license": "https://unsplash.com/license",
+    "usage": "Editorial concept imagery; not a commissioned-project claim"
+  },
+  "/images/projects/the-monolith-home/4.jpg": {
+    "width": 1950,
+    "height": 2600,
+    "alt": "A concrete structure sitting in the middle of a forest",
+    "photographer": "declansun",
+    "source": "https://unsplash.com/photos/a-concrete-structure-sitting-in-the-middle-of-a-forest-6TOjFoZQs_E",
+    "imageUrl": "https://images.unsplash.com/photo-1730170787482-2c9e1f4b360a",
+    "license": "https://unsplash.com/license",
+    "usage": "Editorial concept imagery; not a commissioned-project claim"
+  },
+  "/images/projects/haven-courtyard/1.jpg": {
+    "width": 1733,
+    "height": 2600,
+    "alt": "a white building with a palm tree in front of it",
+    "photographer": "guilhermestecanella",
+    "source": "https://unsplash.com/photos/a-white-building-with-a-palm-tree-in-front-of-it-bg9BE6BG4N4",
+    "imageUrl": "https://images.unsplash.com/photo-1643659661211-db38e03c279f",
+    "license": "https://unsplash.com/license",
+    "usage": "Editorial concept imagery; not a commissioned-project claim"
+  },
+  "/images/projects/haven-courtyard/2.jpg": {
+    "width": 1733,
+    "height": 2600,
+    "alt": "black and brown leather padded tub sofa",
+    "photographer": "insideweather",
+    "source": "https://unsplash.com/photos/black-and-brown-leather-padded-tub-sofa-Uxqlfigh6oE",
+    "imageUrl": "https://images.unsplash.com/photo-1567016376408-0226e4d0c1ea",
+    "license": "https://unsplash.com/license",
+    "usage": "Editorial concept imagery; not a commissioned-project claim"
+  },
+  "/images/projects/haven-courtyard/3.jpg": {
+    "width": 2200,
+    "height": 1467,
+    "alt": "Modern living room with tan leather chairs and fireplace",
+    "photographer": "claybanks",
+    "source": "https://unsplash.com/photos/modern-living-room-with-tan-leather-chairs-and-fireplace-CCQi3pV95k0",
+    "imageUrl": "https://images.unsplash.com/photo-1762544968153-b9b47435fefd",
+    "license": "https://unsplash.com/license",
+    "usage": "Editorial concept imagery; not a commissioned-project claim"
+  },
+  "/images/projects/haven-courtyard/4.jpg": {
+    "width": 1463,
+    "height": 2600,
+    "alt": "a couch with a tea cup and a plant on it",
+    "photographer": "dreamshunter94",
+    "source": "https://unsplash.com/photos/a-couch-with-a-tea-cup-and-a-plant-on-it-tDnMjN2tTh4",
+    "imageUrl": "https://images.unsplash.com/photo-1665845616203-6b90a232766a",
+    "license": "https://unsplash.com/license",
+    "usage": "Editorial concept imagery; not a commissioned-project claim"
+  },
+  "/images/projects/villa-cendana/1.jpg": {
+    "width": 2200,
+    "height": 1238,
+    "alt": "a house with a car parked in front of it",
+    "photographer": "donkaveen",
+    "source": "https://unsplash.com/photos/a-house-with-a-car-parked-in-front-of-it-4LLHJHyXQVk",
+    "imageUrl": "https://images.unsplash.com/photo-1688653802629-5360086bf632",
+    "license": "https://unsplash.com/license",
+    "usage": "Editorial concept imagery; not a commissioned-project claim"
+  },
+  "/images/projects/villa-cendana/2.jpg": {
+    "width": 1800,
+    "height": 2600,
+    "alt": "Warm, inviting dining area with natural wood and woven pendant lights",
+    "photographer": "aureler",
+    "source": "https://unsplash.com/photos/warm-inviting-dining-area-with-natural-wood-and-woven-pendant-lights-_ClZs4LmSYw",
+    "imageUrl": "https://images.unsplash.com/photo-1755884932029-c26586a7b06a",
+    "license": "https://unsplash.com/license",
+    "usage": "Editorial concept imagery; not a commissioned-project claim"
+  },
+  "/images/projects/villa-cendana/3.jpg": {
+    "width": 1788,
+    "height": 2600,
+    "alt": "a dining room table with a vase of flowers on it",
+    "photographer": "yoyoand",
+    "source": "https://unsplash.com/photos/a-dining-room-table-with-a-vase-of-flowers-on-it-4uMRVFnJcP4",
+    "imageUrl": "https://images.unsplash.com/photo-1674542572845-7875fa71f1ca",
+    "license": "https://unsplash.com/license",
+    "usage": "Editorial concept imagery; not a commissioned-project claim"
+  },
+  "/images/projects/villa-cendana/4.jpg": {
+    "width": 1950,
+    "height": 2600,
+    "alt": "brown wooden center table inside room",
+    "photographer": "kirillz",
+    "source": "https://unsplash.com/photos/brown-wooden-center-table-inside-room-9uH-hM0VwPg",
+    "imageUrl": "https://images.unsplash.com/photo-1523755231516-e43fd2e8dca5",
+    "license": "https://unsplash.com/license",
+    "usage": "Editorial concept imagery; not a commissioned-project claim"
+  },
+  "/images/projects/stonehaven-residence/1.jpg": {
+    "width": 2200,
+    "height": 1781,
+    "alt": "gray concrete building during daytime",
+    "photographer": "rgaleriacom",
+    "source": "https://unsplash.com/photos/gray-concrete-building-during-daytime-9AjwOAIdsII",
+    "imageUrl": "https://images.unsplash.com/photo-1625390711106-3728815ebcd9",
+    "license": "https://unsplash.com/license",
+    "usage": "Editorial concept imagery; not a commissioned-project claim"
+  },
+  "/images/projects/stonehaven-residence/2.jpg": {
+    "width": 1774,
+    "height": 2600,
+    "alt": "green grass beside gray concrete wall",
+    "photographer": "ginacanavan",
+    "source": "https://unsplash.com/photos/green-grass-beside-gray-concrete-wall-NGDn0Di7jgg",
+    "imageUrl": "https://images.unsplash.com/photo-1595806487890-05ac0506e2df",
+    "license": "https://unsplash.com/license",
+    "usage": "Editorial concept imagery; not a commissioned-project claim"
+  },
+  "/images/projects/stonehaven-residence/3.jpg": {
+    "width": 1950,
+    "height": 2600,
+    "alt": "A building that has a clock on the side of it",
+    "photographer": "declansun",
+    "source": "https://unsplash.com/photos/a-building-that-has-a-clock-on-the-side-of-it-OzBTIBGlLGs",
+    "imageUrl": "https://images.unsplash.com/photo-1730170787470-f56f3adaa67b",
+    "license": "https://unsplash.com/license",
+    "usage": "Editorial concept imagery; not a commissioned-project claim"
+  },
+  "/images/projects/stonehaven-residence/4.jpg": {
+    "width": 1722,
+    "height": 2600,
+    "alt": "a person walking down a sidewalk next to a building",
+    "photographer": "sepoys",
+    "source": "https://unsplash.com/photos/a-person-walking-down-a-sidewalk-next-to-a-building-9ami5wIbuic",
+    "imageUrl": "https://images.unsplash.com/photo-1646096029017-e9a3795ea84b",
+    "license": "https://unsplash.com/license",
+    "usage": "Editorial concept imagery; not a commissioned-project claim"
+  },
+  "/images/projects/the-linear-house/1.jpg": {
+    "width": 1952,
+    "height": 2600,
+    "alt": "white concrete building under blue sky during daytime",
+    "photographer": "felifox",
+    "source": "https://unsplash.com/photos/white-concrete-building-under-blue-sky-during-daytime-P21wf6KAykw",
+    "imageUrl": "https://images.unsplash.com/photo-1628012209120-d9db7abf7eab",
+    "license": "https://unsplash.com/license",
+    "usage": "Editorial concept imagery; not a commissioned-project claim"
+  },
+  "/images/projects/the-linear-house/2.jpg": {
+    "width": 1733,
+    "height": 2600,
+    "alt": "grey concrete building\\",
+    "photographer": "charlesdeluvio",
+    "source": "https://unsplash.com/photos/grey-concrete-building-HMmaJcDJu6c",
+    "imageUrl": "https://images.unsplash.com/photo-1462565946545-09e3fd33f393",
+    "license": "https://unsplash.com/license",
+    "usage": "Editorial concept imagery; not a commissioned-project claim"
+  },
+  "/images/projects/the-linear-house/3.jpg": {
+    "width": 1733,
+    "height": 2600,
+    "alt": "white concrete building under blue sky during daytime",
+    "photographer": "victor_g",
+    "source": "https://unsplash.com/photos/white-concrete-building-under-blue-sky-during-daytime-4G6DOKSwO8U",
+    "imageUrl": "https://images.unsplash.com/photo-1549791084-5f78368b208b",
+    "license": "https://unsplash.com/license",
+    "usage": "Editorial concept imagery; not a commissioned-project claim"
+  },
+  "/images/projects/the-linear-house/4.jpg": {
+    "width": 1904,
+    "height": 2600,
+    "alt": "A building that has a door on the outside of it",
+    "photographer": "declansun",
+    "source": "https://unsplash.com/photos/a-building-that-has-a-door-on-the-outside-of-it-E1V_SFxmh1E",
+    "imageUrl": "https://images.unsplash.com/photo-1730170788245-12055e40ab87",
+    "license": "https://unsplash.com/license",
+    "usage": "Editorial concept imagery; not a commissioned-project claim"
+  },
+  "/images/projects/maison-noir-gallery/1.jpg": {
+    "width": 1930,
+    "height": 2600,
+    "alt": "Dark modern art gallery with black and white photographs",
+    "photographer": "declansun",
+    "source": "https://unsplash.com/photos/dark-modern-art-gallery-with-black-and-white-photographs-CSQzl0eB5Tw",
+    "imageUrl": "https://images.unsplash.com/photo-1782879306468-8f41f4675205",
+    "license": "https://unsplash.com/license",
+    "usage": "Editorial concept imagery; not a commissioned-project claim"
+  },
+  "/images/projects/maison-noir-gallery/2.jpg": {
+    "width": 1733,
+    "height": 2600,
+    "alt": "Modern art gallery hallway with minimalist white walls",
+    "photographer": "declansun",
+    "source": "https://unsplash.com/photos/modern-art-gallery-hallway-with-minimalist-white-walls-_42kwMUmZw0",
+    "imageUrl": "https://images.unsplash.com/photo-1762928289094-197055a5d5c3",
+    "license": "https://unsplash.com/license",
+    "usage": "Editorial concept imagery; not a commissioned-project claim"
+  },
+  "/images/projects/maison-noir-gallery/3.jpg": {
+    "width": 1869,
+    "height": 2600,
+    "alt": "Modern white hallway with square openings and ceiling lights",
+    "photographer": "hdbernd",
+    "source": "https://unsplash.com/photos/modern-white-hallway-with-square-openings-and-ceiling-lights-nYqYu2Jx6K4",
+    "imageUrl": "https://images.unsplash.com/photo-1771189255285-3bcb030e1f47",
+    "license": "https://unsplash.com/license",
+    "usage": "Editorial concept imagery; not a commissioned-project claim"
+  },
+  "/images/projects/maison-noir-gallery/4.jpg": {
+    "width": 2200,
+    "height": 1467,
+    "alt": "Art gallery with framed works on white walls",
+    "photographer": "yosuke_ota",
+    "source": "https://unsplash.com/photos/art-gallery-with-framed-works-on-white-walls-hmLJoTdJkPQ",
+    "imageUrl": "https://images.unsplash.com/photo-1766801848077-31bd1900efcc",
+    "license": "https://unsplash.com/license",
+    "usage": "Editorial concept imagery; not a commissioned-project claim"
+  },
+  "/images/projects/atelier-one-workspace/1.jpg": {
+    "width": 2200,
+    "height": 1469,
+    "alt": "photo of dining table and chairs inside room",
+    "photographer": "sunday_digital",
+    "source": "https://unsplash.com/photos/photo-of-dining-table-and-chairs-inside-room-eHD8Y1Znfpk",
+    "imageUrl": "https://images.unsplash.com/photo-1497366811353-6870744d04b2",
+    "license": "https://unsplash.com/license",
+    "usage": "Editorial concept imagery; not a commissioned-project claim"
+  },
+  "/images/projects/atelier-one-workspace/2.jpg": {
+    "width": 2200,
+    "height": 1469,
+    "alt": "hallway between glass-panel doors",
+    "photographer": "sunday_digital",
+    "source": "https://unsplash.com/photos/hallway-between-glass-panel-doors-yWwob8kwOCk",
+    "imageUrl": "https://images.unsplash.com/photo-1497366754035-f200968a6e72",
+    "license": "https://unsplash.com/license",
+    "usage": "Editorial concept imagery; not a commissioned-project claim"
+  },
+  "/images/projects/atelier-one-workspace/3.jpg": {
+    "width": 1733,
+    "height": 2600,
+    "alt": "Modern chairs with pink and grey fabric around small tables in a workspace",
+    "photographer": "jipy32",
+    "source": "https://unsplash.com/photos/modern-chairs-in-office-workspace-Gdufctyvzjo",
+    "imageUrl": "https://images.unsplash.com/photo-1525896544042-354764aa27e6",
+    "license": "https://unsplash.com/license",
+    "usage": "Editorial concept imagery; not a commissioned-project claim"
+  },
+  "/images/projects/atelier-one-workspace/4.jpg": {
+    "width": 1733,
+    "height": 2600,
+    "alt": "A wooden standing desk with a computer monitor and keyboard in a home office",
+    "photographer": "ergonofis",
+    "source": "https://unsplash.com/photos/wooden-standing-desk-in-home-office-tdnYk4qOGhc",
+    "imageUrl": "https://images.unsplash.com/photo-1623177623442-979c1e42c255",
+    "license": "https://unsplash.com/license",
+    "usage": "Editorial concept imagery; not a commissioned-project claim"
+  },
+  "/images/projects/sora-hospitality/1.jpg": {
+    "width": 1734,
+    "height": 2600,
+    "alt": "brown and white couch beside window",
+    "photographer": "aranprime",
+    "source": "https://unsplash.com/photos/brown-and-white-couch-beside-window-KbytCpI1i5I",
+    "imageUrl": "https://images.unsplash.com/photo-1599696848652-f0ff23bc911f",
+    "license": "https://unsplash.com/license",
+    "usage": "Editorial concept imagery; not a commissioned-project claim"
+  },
+  "/images/projects/sora-hospitality/2.jpg": {
+    "width": 1463,
+    "height": 2600,
+    "alt": "lighted pendant lamps",
+    "photographer": "storybyphil",
+    "source": "https://unsplash.com/photos/lighted-pendant-lamps-Qn9e6JsYUFg",
+    "imageUrl": "https://images.unsplash.com/photo-1554009975-d74653b879f1",
+    "license": "https://unsplash.com/license",
+    "usage": "Editorial concept imagery; not a commissioned-project claim"
+  },
+  "/images/projects/sora-hospitality/3.jpg": {
+    "width": 1462,
+    "height": 2600,
+    "alt": "white bed with gray pillow",
+    "photographer": "linusmimietz",
+    "source": "https://unsplash.com/photos/white-bed-with-gray-pillow-p3UWyaujtQo",
+    "imageUrl": "https://images.unsplash.com/photo-1629140727571-9b5c6f6267b4",
+    "license": "https://unsplash.com/license",
+    "usage": "Editorial concept imagery; not a commissioned-project claim"
+  },
+  "/images/projects/sora-hospitality/4.jpg": {
+    "width": 2200,
+    "height": 1467,
+    "alt": "modern hotel lobby with designer furniture and wood walls",
+    "photographer": "framesforyourheart",
+    "source": "https://unsplash.com/photos/modern-hotel-lobby-with-designer-furniture-and-wood-walls-zSG-kd-L6vw",
+    "imageUrl": "https://images.unsplash.com/photo-1621293954908-907159247fc8",
+    "license": "https://unsplash.com/license",
+    "usage": "Editorial concept imagery; not a commissioned-project claim"
+  },
+  "/images/projects/forma-retail-space/1.jpg": {
+    "width": 1733,
+    "height": 2600,
+    "alt": "a long white hallway with a skylight above it",
+    "photographer": "declansun",
+    "source": "https://unsplash.com/photos/a-long-white-hallway-with-a-skylight-above-it-EseHC9NnC_I",
+    "imageUrl": "https://images.unsplash.com/photo-1711873316332-acb6930211e1",
+    "license": "https://unsplash.com/license",
+    "usage": "Editorial concept imagery; not a commissioned-project claim"
+  },
+  "/images/projects/forma-retail-space/2.jpg": {
+    "width": 2200,
+    "height": 1467,
+    "alt": "Modern minimalist seating area with wooden furniture",
+    "photographer": "limwoojung",
+    "source": "https://unsplash.com/photos/modern-minimalist-seating-area-with-wooden-furniture-XKm9AmmSn3I",
+    "imageUrl": "https://images.unsplash.com/photo-1772751541531-e084e8f56630",
+    "license": "https://unsplash.com/license",
+    "usage": "Editorial concept imagery; not a commissioned-project claim"
+  },
+  "/images/projects/forma-retail-space/3.jpg": {
+    "width": 2200,
+    "height": 2174,
+    "alt": "a room filled with wooden tables and benches",
+    "photographer": "whiterainforest",
+    "source": "https://unsplash.com/photos/a-room-filled-with-wooden-tables-and-benches-CVVbynP7DQ4",
+    "imageUrl": "https://images.unsplash.com/photo-1553487164-47dd19cf0a72",
+    "license": "https://unsplash.com/license",
+    "usage": "Editorial concept imagery; not a commissioned-project claim"
+  },
+  "/images/projects/forma-retail-space/4.jpg": {
+    "width": 2080,
+    "height": 2600,
+    "alt": "white metal frame ceiling with light",
+    "photographer": "baruch_pi",
+    "source": "https://unsplash.com/photos/white-metal-frame-ceiling-with-light-RO4APhHix-c",
+    "imageUrl": "https://images.unsplash.com/photo-1586107082398-7ac72326a6c9",
+    "license": "https://unsplash.com/license",
+    "usage": "Editorial concept imagery; not a commissioned-project claim"
+  },
+  "/images/team/adrian-mahesa.jpg": {
+    "width": 1734,
+    "height": 2600,
+    "alt": "man wearing Henley top portrait",
+    "photographer": "juricakoletic",
+    "source": "https://unsplash.com/photos/man-wearing-henley-top-portrait-7YVZYZeITc8",
+    "imageUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e",
+    "license": "https://unsplash.com/license",
+    "usage": "Illustrative portrait for a fictional editorial persona"
+  },
+  "/images/team/keira-anindya.jpg": {
+    "width": 2200,
+    "height": 1716,
+    "alt": "grayscale photo of woman wearing necklace and top",
+    "photographer": "mrsrachelmcdermott",
+    "source": "https://unsplash.com/photos/grayscale-photo-of-woman-wearing-necklace-and-top-0fN7Fxv1eWA",
+    "imageUrl": "https://images.unsplash.com/photo-1506863530036-1efeddceb993",
+    "license": "https://unsplash.com/license",
+    "usage": "Illustrative portrait for a fictional editorial persona"
+  },
+  "/images/team/rafael-pratama.jpg": {
+    "width": 1733,
+    "height": 2600,
+    "alt": "man wearing white V-neck shirt",
+    "photographer": "miracletwentyone",
+    "source": "https://unsplash.com/photos/man-wearing-white-v-neck-shirt-iFgRcqHznqg",
+    "imageUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d",
+    "license": "https://unsplash.com/license",
+    "usage": "Illustrative portrait for a fictional editorial persona"
+  },
+  "/images/journal/minimal-architecture.jpg": {
+    "width": 1733,
+    "height": 2600,
+    "alt": "white concrete building under blue sky during daytime",
+    "photographer": "victor_g",
+    "source": "https://unsplash.com/photos/white-concrete-building-under-blue-sky-during-daytime-4G6DOKSwO8U",
+    "imageUrl": "https://images.unsplash.com/photo-1549791084-5f78368b208b",
+    "license": "https://unsplash.com/license",
+    "usage": "Editorial concept imagery; not a commissioned-project claim"
+  },
+  "/images/journal/materiality.jpg": {
+    "width": 1733,
+    "height": 2600,
+    "alt": "white throw pillow on brown sofa near decorative coffee table and vacant bar stools",
+    "photographer": "sendmaddie",
+    "source": "https://unsplash.com/photos/white-throw-pillow-on-brown-sofa-near-decorative-coffee-table-and-vacant-bar-stools-zhk_rlTpHJg",
+    "imageUrl": "https://images.unsplash.com/photo-1549654378-6a6d59af5767",
+    "license": "https://unsplash.com/license",
+    "usage": "Editorial concept imagery; not a commissioned-project claim"
+  },
+  "/images/journal/light-and-shadow.jpg": {
+    "width": 2200,
+    "height": 1467,
+    "alt": "Close-up of a decorative wooden screen with hallway in background",
+    "photographer": "habib2510",
+    "source": "https://unsplash.com/photos/close-up-of-a-decorative-wooden-screen-with-hallway-in-background-UWgxkSOpiR4",
+    "imageUrl": "https://images.unsplash.com/photo-1777732023137-7786fbaf378b",
+    "license": "https://unsplash.com/license",
+    "usage": "Editorial concept imagery; not a commissioned-project claim"
+  },
+  "/images/journal/timeless-interiors.jpg": {
+    "width": 2200,
+    "height": 1467,
+    "alt": "Modern living room with tan leather chairs and fireplace",
+    "photographer": "claybanks",
+    "source": "https://unsplash.com/photos/modern-living-room-with-tan-leather-chairs-and-fireplace-CCQi3pV95k0",
+    "imageUrl": "https://images.unsplash.com/photo-1762544968153-b9b47435fefd",
+    "license": "https://unsplash.com/license",
+    "usage": "Editorial concept imagery; not a commissioned-project claim"
+  },
+  "/images/about/studio.jpg": {
+    "width": 2200,
+    "height": 1567,
+    "alt": "Modern white interior with large windows and columns",
+    "photographer": "declansun",
+    "source": "https://unsplash.com/photos/modern-white-interior-with-large-windows-and-columns-0-ypHJxt1-w",
+    "imageUrl": "https://images.unsplash.com/photo-1771678040857-51d00a11be7a",
+    "license": "https://unsplash.com/license",
+    "usage": "Editorial concept imagery; not a commissioned-project claim"
+  }
+}
